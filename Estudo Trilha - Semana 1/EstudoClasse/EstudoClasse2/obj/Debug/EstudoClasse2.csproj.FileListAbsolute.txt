@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\Estudo Trilha\EstudoClasse\EstudoClasse2\bin\Debug\EstudoClasse2.exe.config
+C:\Users\Usuario\Desktop\Estudo Trilha\EstudoClasse\EstudoClasse2\bin\Debug\EstudoClasse2.exe
+C:\Users\Usuario\Desktop\Estudo Trilha\EstudoClasse\EstudoClasse2\bin\Debug\EstudoClasse2.pdb
+C:\Users\Usuario\Desktop\Estudo Trilha\EstudoClasse\EstudoClasse2\obj\Debug\EstudoClasse2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudo Trilha\EstudoClasse\EstudoClasse2\obj\Debug\EstudoClasse2.exe
+C:\Users\Usuario\Desktop\Estudo Trilha\EstudoClasse\EstudoClasse2\obj\Debug\EstudoClasse2.pdb
