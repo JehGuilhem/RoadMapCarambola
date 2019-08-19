@@ -1,0 +1,19 @@
+using System;
+
+public static class Kata
+{
+  public static int CountSmileys(string[] smileys) 
+  {
+    int result = 0;
+    for (int i = 0; i < smileys.Length; i++)
+        {
+            int face = 0;
+            if (smileys[i].Contains(":") || smileys[i].Contains(";")) { face++; }
+            if (smileys[i].Contains(")") || smileys[i].Contains("D")) { face++; }
+            if (smileys[i].Contains(" ")) { face--; }
+            if (face == 2) { result++; }
+        }
+    
+     return result;
+  }
+}
