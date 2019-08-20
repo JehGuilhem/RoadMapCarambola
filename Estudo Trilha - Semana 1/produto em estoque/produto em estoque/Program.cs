@@ -12,18 +12,29 @@ namespace produto_em_estoque
         static void Main(string[] args)
         {
 
-            Produto p = new Produto();
-
             Console.WriteLine("Entre os dados do produto: ");
 
             Console.Write("Nome: ");
-            p.Nome = Console.ReadLine();
+            string nome = Console.ReadLine();
 
             Console.Write("Preço: ");
-            p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.Write("Quantidade no estoque: ");
-            p.Quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            //USANDO O CONSTRUTOR
+
+            Produto p = new Produto(nome, preco);
+
+            Produto p2 = new Produto();
+
+            Produto p3 = new Produto()
+            {
+                Nome = "TV",
+                Preco = 500.00,
+                Quantidade = 20
+            };
+
+            //Console.Write("Quantidade no estoque: ");
+            //int quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
@@ -44,7 +55,7 @@ namespace produto_em_estoque
             p.RemoverProdutos(qte);
 
             Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
+            Console.WriteLine("Dados atualizados: " + p);*/
 
             Console.Read();
             
