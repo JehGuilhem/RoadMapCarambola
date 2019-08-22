@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\produto em estoque\produto em estoque\bin\Debug\produto em estoque.exe.config
+C:\Users\Usuario\source\repos\produto em estoque\produto em estoque\bin\Debug\produto em estoque.exe
+C:\Users\Usuario\source\repos\produto em estoque\produto em estoque\bin\Debug\produto em estoque.pdb
+C:\Users\Usuario\source\repos\produto em estoque\produto em estoque\obj\Debug\produto em estoque.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\produto em estoque\produto em estoque\obj\Debug\produto em estoque.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\produto em estoque\produto em estoque\obj\Debug\produto em estoque.exe
+C:\Users\Usuario\source\repos\produto em estoque\produto em estoque\obj\Debug\produto em estoque.pdb
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Estudo Trilha - Semana 1\produto em estoque\produto em estoque\obj\Debug\produto em estoque.csprojAssemblyReference.cache
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Estudo Trilha - Semana 1\produto em estoque\produto em estoque\obj\Debug\produto em estoque.csproj.CoreCompileInputs.cache
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Estudo Trilha - Semana 1\produto em estoque\produto em estoque\obj\Debug\produto em estoque.exe
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Estudo Trilha - Semana 1\produto em estoque\produto em estoque\obj\Debug\produto em estoque.pdb
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Estudo Trilha - Semana 1\produto em estoque\produto em estoque\bin\Debug\produto em estoque.exe.config
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Estudo Trilha - Semana 1\produto em estoque\produto em estoque\bin\Debug\produto em estoque.exe
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Estudo Trilha - Semana 1\produto em estoque\produto em estoque\bin\Debug\produto em estoque.pdb
