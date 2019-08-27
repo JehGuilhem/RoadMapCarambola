@@ -1,0 +1,14 @@
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 16\Conta\Conta\bin\Debug\Conta.exe.config
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 16\Conta\Conta\bin\Debug\Conta.exe
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 16\Conta\Conta\bin\Debug\Conta.pdb
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 16\Conta\Conta\obj\Debug\Conta.csprojAssemblyReference.cache
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 16\Conta\Conta\obj\Debug\Conta.csproj.CoreCompileInputs.cache
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 16\Conta\Conta\obj\Debug\Conta.exe
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 16\Conta\Conta\obj\Debug\Conta.pdb
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 15\Estudo sobre heranca\Conta\bin\Debug\Conta.exe.config
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 15\Estudo sobre heranca\Conta\bin\Debug\Conta.exe
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 15\Estudo sobre heranca\Conta\bin\Debug\Conta.pdb
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 15\Estudo sobre heranca\Conta\obj\Debug\Conta.csprojAssemblyReference.cache
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 15\Estudo sobre heranca\Conta\obj\Debug\Conta.csproj.CoreCompileInputs.cache
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 15\Estudo sobre heranca\Conta\obj\Debug\Conta.exe
+D:\Arquivos\Estudo Trilha c#\RoadMapCarambola\Semana 15\Estudo sobre heranca\Conta\obj\Debug\Conta.pdb

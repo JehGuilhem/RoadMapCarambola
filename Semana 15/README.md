@@ -1,9 +1,11 @@
 # RoadMapCarambola
 Estudo da Trilha de C#. 
     
-      - EM ANDAMENTO.
+	- Propriedades;
+	- Acessibilidade;
 
-- Continuação da aplicação de Produto em estoque, onde o usuário pode cadastrar um novo produto e alterar a quantidade.
-    - Utilização dos itens de estudo: Propriedades, Niveis de Acessibilidade e Herança.
+- Continuação da aplicação de Produto em estoque, só que neste o usuário só pode 
+alterar o nome do produto se tiver mais de 2 letras (preço e quantidade só podem ser vistos)
+    - Utilização dos itens de estudo: Propriedades, Niveis de Acessibilidade.
 
 - Exercícios do site CodeWars, para a evolução da Lógica de programação.

@@ -1,9 +1,14 @@
-# RoadMapCarambola
-Estudo da Trilha de C#.
+## RoadMap Individual
 
-- Aqui serão mostrados os itens trabalhados durante o estudo da trilha de C#:
-  - Aplicações;
-  - Exercícios sobre a trilha;
-  - Exercícios do CodeWars (Lógica de Programação).
+  - Semana 14
+    - Classes, Escopo e Encapsulamento.
+
+  - Semana 15
+    - Propriedades, Niveis de Acessibilidade.
+  - Semana 16
+    - Polimorfismo, Tratamento de erros e ASP.NET WebMVC;
+  - Semana 17
+    - Teste unitário, Dictionaries e LINQ;
+  - Semana 18
+    - Entity framework, Razor Engine e Nuget.
   
-- Favor utilizar o Visual Studio para rodar as aplicações.
