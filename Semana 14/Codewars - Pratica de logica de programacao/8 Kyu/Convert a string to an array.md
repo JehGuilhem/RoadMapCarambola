@@ -7,7 +7,7 @@ Write a function to split a string and convert it into an array of words. For ex
 "Robin Singh" ==> ["Robin", "Singh"]
 
 "I love arrays they are my favorite" ==> ["I", "love", "arrays", "they", "are", "my", "favorite"]
-
+```
 namespace Solution {
   using System;
 
