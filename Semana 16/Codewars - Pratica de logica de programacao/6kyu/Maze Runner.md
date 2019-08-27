@@ -47,4 +47,5 @@ namespace CodeWars
             return "Lost";      
         }
     }
-}'''
+}
+'''
