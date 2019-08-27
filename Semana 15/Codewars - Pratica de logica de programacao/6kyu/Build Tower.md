@@ -15,6 +15,7 @@ C++: returns a vector<string>;
 Haskell: returns a [String];
 Ruby: returns an Array;
 
+'''
 public class Kata
 {
   public static string[] TowerBuilder(int nFloors)
@@ -35,3 +36,4 @@ public class Kata
     return result;
   }
 }
+'''
