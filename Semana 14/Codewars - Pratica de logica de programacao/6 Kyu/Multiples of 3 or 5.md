@@ -6,7 +6,7 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 
 Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in.
 
-
+```
 public static class Kata
 {
   public static int Solution(int value)
