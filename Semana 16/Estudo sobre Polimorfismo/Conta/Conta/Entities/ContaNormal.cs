@@ -1,24 +1,24 @@
 ﻿namespace Conta.Entities
 {
-    class Conta
+    class ContaNormal
     {
         public int Numero { get; private set; }
         public string TitularConta { get; private set; }
         public double Saldo { get; protected set; } //a subclasse tera acesso a variavel
 
-        public Conta()
+        public ContaNormal()
         {
         }
-        public Conta(int numero, string titularConta, double saldo)
+        public ContaNormal(int numero, string titularConta, double saldo)
         {
             Numero = numero;
             TitularConta = titularConta;
             Saldo = saldo;
         }
-
-        public void Saque(double quantia)
+        //virtual para declarar que ele pode ser sobrescrito na subclasse
+        public virtual void Saque(double quantia)
         {
-            Saldo -= quantia;
+            Saldo -= quantia + 5.0;
         }
 
         public void Deposito(double quantia)

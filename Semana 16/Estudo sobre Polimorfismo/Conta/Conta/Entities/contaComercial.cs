@@ -1,7 +1,7 @@
 ﻿
 namespace Conta.Entities
 {
-    class ContaComercial : Conta
+    class ContaComercial : ContaNormal
     {
         public double LimiteEmprestimo { get; set; }
 

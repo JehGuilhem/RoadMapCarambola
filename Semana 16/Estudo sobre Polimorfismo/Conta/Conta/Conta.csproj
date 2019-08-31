@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Conta.cs" />
+    <Compile Include="Entities\ContaNormal.cs" />
     <Compile Include="Entities\ContaComercial.cs" />
     <Compile Include="Entities\ContaPoupanca.cs" />
     <Compile Include="Program.cs" />
