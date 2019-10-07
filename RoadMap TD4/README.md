@@ -3,5 +3,5 @@
   - Semana 1
 	- Estudo de Testes Unitários JUnit Java;
   - Semana 2
-	- 
+	- Estudo de Visual Basic;
   
